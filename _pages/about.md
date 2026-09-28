@@ -40,7 +40,7 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.09*: &nbsp;🎉 Omni-Geo and ViaLean have been accepted by the NeurIPS@MATH-AI.
+- *2026.09*: &nbsp;🎉 Omni-Geo and ViaLean have been accepted by the MATH-AI Workshop at NeurIPS.
 - *2026.09*: &nbsp;🎉 Excited to have one paper accepted at NeurIPS 2026.
 - *2026.05*: &nbsp;🎉 Excited to have one paper accepted at ICML 2026. See you in Seoul!
 - *2026.02*: &nbsp;🎉 Excited to have one paper accepted at CVPR 2026.
