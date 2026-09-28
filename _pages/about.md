@@ -40,13 +40,14 @@ My research interests span AI for Verifiable Reasoning, AI for Scientific Discov
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid #e0e0e0; border-radius: 8px; padding: 10px 15px; background-color: #fafafa;" markdown="1">
-- *2026.09*: &nbsp;🎉🎉 Excited to have one paper accepted at NeurIPS 2026!
-- *2026.05*: &nbsp;🎉🎉 Excited to have one paper accepted at ICML 2026! See you in Seoul!
-- *2026.02*: &nbsp;🎉🎉 Excited to have one paper accepted at CVPR 2026!
-<!-- *2025.06*: &nbsp;🎉🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.-->
-<!-- *2025.03*: &nbsp;🎉🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.-->
-- *2025.02*: &nbsp;🎉🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
-- *2024.12*: &nbsp;🎉🎉 I translated a textbook: Method in contemporary mathematical physics. [Here](https://drive.google.com/file/d/1Z2Gl61_IojbPB8iT0BGODMree5qUinw6/view?usp=sharing) is a part of the first draft.
+- *2026.09*: &nbsp;🎉 Omni-Geo and ViaLean have been accepted by the MATH-AI Workshop at NeurIPS 2026.
+- *2026.09*: &nbsp;🎉 Excited to have one paper accepted at NeurIPS 2026.
+- *2026.05*: &nbsp;🎉 Excited to have one paper accepted at ICML 2026. See you in Seoul!
+- *2026.02*: &nbsp;🎉 Excited to have one paper accepted at CVPR 2026.
+<!-- *2025.06*: &nbsp;🎉 I was supported by the Summer Undergraduate Research Fellowship(SURF) at XJTLU to study LLM for math reasoning.-->
+<!-- *2025.03*: &nbsp;🎉 I will serve as the Head of the Academic Department for the Math Club and Physics Club at XJTLU.-->
+- *2025.02*: &nbsp;🎉 I joined [PremiLab](https://premilab-math.github.io/) as a research assistant.
+- *2024.12*: &nbsp;🎉 I translated a textbook: Method in contemporary mathematical physics. [Here](https://drive.google.com/file/d/1Z2Gl61_IojbPB8iT0BGODMree5qUinw6/view?usp=sharing) is a part of the first draft.
 
 </div>
 
