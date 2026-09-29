@@ -275,6 +275,8 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">NeurIPS@Math-AI</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+             <a href="" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/PremiLab-Math/Omnigeo" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
 </div>
