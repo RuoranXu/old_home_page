@@ -229,12 +229,38 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
         </p>
     </div>
 </div>
+-->
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
+        <div style="position: relative;">
+            <div class="badge">NeurIPS@Math-AI</div>
+            <a href="images/"><img src="images/" alt="sym" width="100%"></a>
+        </div>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Symbolic Search Is Not Exhausted: Persistent Proof-Space Exploration in Lean4</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
+                <u><b>Ruoran Xu</b></u>
+        </p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">NeurIPS@Math-AI</p>
+        <div style="height: 0px;"></div>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
+             <a href="" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/RuoranXu/ViaLean" style="text-decoration: none; color: blue;">[Code]</a>
+        </p>
+    </div>
+</div>
 
 <div style="height: 20px;"></div>
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%; margin-top: 20px;">
-        <a href="#"><img src="images/" alt="omni-Geo" width="100%"></a>
+        <div style="position: relative;">
+            <div class="badge">NeurIPS@Math-AI</div>
+            <a href="#"><img src="images/" alt="omni-Geo" width="100%"></a>
+        </div>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Omni-Geo: Neuro-Symbolic Architecture for Geometry Reasoning</b></p>
@@ -246,14 +272,16 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
                 <span style="color: gray;">Qiufeng Wang</span>
         </p>
         <div style="height: 0px;"></div>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">Under Review</p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">NeurIPS@Math-AI</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 1px;">
         </p>
     </div>
 </div>
 
+<div style="height: 20px;"></div>
 
+<!--
 <div style="height: 20px;"></div>
 
 <div class="row">
