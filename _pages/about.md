@@ -241,7 +241,7 @@ Proved S-Adam converges to Clarke stationary points at $O(1/\sqrt{T})$, offering
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Symbolic Search Is Not Exhausted: Persistent Proof-Space Exploration in Lean4</b></p>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 5px;">
-                <u><b>Ruoran Xu</b></u>
+                <span style="color: gray;">Ruoran Xu</span>
         </p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 1px;">NeurIPS@Math-AI</p>
